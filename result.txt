@@ -1,0 +1,7 @@
+Vitorias do jogador aleatorio: 53 Totalizando 17% Vitorias.
+Vitorias do jogador exigente: 128 Totalizando 42% Vitorias.
+Vitorias do jogador cauteloso: 53 Totalizando 17% Vitorias.
+Vitorias do jogador impulsivo: 66 Totalizando 22% Vitorias.
+A media de turnos foi de: 425 turnos.
+O numero de partidas que terminaram na ultima rodada foram de: 104 partidas.
+A partida com o turno mais curto foi de: 23 turnos.
